@@ -1,1 +1,1 @@
-This repo is used by the [compost](https://github.com/infracost/compost) E2E tests.
+This repo is used by the [compost](https://github.com/Unity-Industry-and-mechanical-industry) E2E tests.
